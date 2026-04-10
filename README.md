@@ -1,37 +1,48 @@
-# Hi there, I'm Lucas Moraes 👋
+# Hi, I'm Luo
+### Solutions Architect specializing in secure data architecture, Zero Trust, and resilient failover design.
 
-**I architect secure and resilient systems with a strong focus on Zero Trust, Failover, and real-world operational reliability.**
+I design systems where security is foundational, data architecture is deliberate, and resilience is built in from the start.
 
-Itajaí, Brasil
+My core focus is secure data architecture supported by Zero Trust principles and failover strategies that keep critical systems reliable under failure.
+
+## What I focus on
+
+- **Security-first architecture** grounded in Zero Trust principles
+- **Data Architecture** with strong modeling, boundaries, and flow design
+- **Resilience engineering** through failover, redundancy, and fault isolation
+- **Platform foundations** that support reliability, control, and operational clarity
+
+## Architecture focus
+
+**Security**
+Zero Trust · identity-aware access · OIDC · mTLS · RBAC · WAF
+
+**Data Architecture**
+data modeling · schema design · data flows · storage strategy · consistency patterns
+
+**Resilience**
+failover · redundancy · graceful degradation · fault isolation · recovery design
+
+**Platform**
+Kubernetes · Terraform · Docker · Cloudflare
+
+**Observability**
+Prometheus · Grafana · OpenTelemetry
+
+## Principles
+
+- Security is not a layer. It is a foundation.
+- Data architecture must be clear, durable, and operationally sound.
+- Resilience must be designed before failure happens.
+- Simplicity is a feature.
+- Strong systems depend on strong boundaries.
+
+## About
+
+I work across architecture, infrastructure, and delivery, but my specialization is the design of secure and resilient systems with a strong emphasis on Data Architecture.
+
+I care about systems that are structured with clear boundaries, protected by Zero Trust principles, and prepared to survive failure through deliberate failover and recovery strategies.
 
 ---
-
-### What I do
-
-- **Zero Trust end-to-end** — identity verified at every hop, least-privilege by default, service isolation between layers
-- **Failover without surprises** — redundancy, circuit breakers, graceful degradation, and runbooks tested before they're needed
-- **Observability as a requirement** — if it doesn't have metrics, alerts, and traces, it's not in production
-
-### Stack & tools
-
-```
-Infrastructure    Kubernetes · Docker · Terraform · Cloudflare
-Backend           Node.js · TypeScript · Python · Go · Kotlin
-Data              PostgreSQL · Redis
-Security          Zero Trust · OIDC · mTLS · RBAC · WAF
-Observability     Prometheus · Grafana · OpenTelemetry
-AI / Agents       LLM pipelines · agent orchestration · AI tooling
-```
-
-### Principles
-
-```
-1. Never trust, always verify        — Zero Trust is architecture, not a product
-2. Design for failure                — If plan A goes down, plan B is already running
-3. Automate what matters             — Deploy, rollback, credential rotation
-4. Simplify before scaling           — Complexity is debt with compound interest
-```
-
-### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moraes-76a0962b6/)
