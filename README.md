@@ -16,7 +16,7 @@ Itajaí, Brasil
 
 ```
 Infrastructure    Kubernetes · Docker · Terraform · Cloudflare
-Backend           Node.js · TypeScript · NestJS · Python
+Backend           Node.js · TypeScript · NestJS · Python · Go · Kotlin
 Data              PostgreSQL · Redis
 Security          Zero Trust · OIDC · mTLS · RBAC · WAF
 Observability     Prometheus · Grafana · OpenTelemetry
