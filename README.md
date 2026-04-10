@@ -16,11 +16,11 @@ Itajaí, Brasil
 
 ```
 Infrastructure    Kubernetes · Docker · Terraform · Cloudflare
-Backend           NestJS · Python · TypeScript · Node.js
-Data              PostgreSQL · Redis · Drizzle ORM
-Security          mTLS · OIDC · RBAC · WAF · VPN mesh
-Observability     Grafana · Prometheus · OpenTelemetry
-AI/Agents         LLM pipelines · Claude Code · AI tooling
+Backend           Node.js · TypeScript · NestJS · Python
+Data              PostgreSQL · Redis
+Security          Zero Trust · OIDC · mTLS · RBAC · WAF
+Observability     Prometheus · Grafana · OpenTelemetry
+AI / Agents       LLM pipelines · agent orchestration · AI tooling
 ```
 
 ### Featured repositories
