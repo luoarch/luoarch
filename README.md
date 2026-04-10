@@ -23,12 +23,6 @@ Observability     Prometheus · Grafana · OpenTelemetry
 AI / Agents       LLM pipelines · agent orchestration · AI tooling
 ```
 
-### Featured repositories
-
-- **[openclaude](https://github.com/luoarch/openclaude)** — Open-source coding-agent CLI for multiple model providers
-- **[agent-skills](https://github.com/luoarch/agent-skills)** — Reusable agent skills for advanced developer workflows
-- **[jarvis](https://github.com/luoarch/jarvis)** — AI-assisted engineering and orchestration
-
 ### Principles
 
 ```
