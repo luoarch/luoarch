@@ -1,0 +1,43 @@
+# Hi there, I'm Lucas Moraes 👋
+
+**I architect secure and resilient systems with a strong focus on Zero Trust, Failover, and real-world operational reliability.**
+
+Itajaí, Brasil
+
+---
+
+### What I do
+
+- **Zero Trust end-to-end** — identity verified at every hop, least-privilege by default, service isolation between layers
+- **Failover without surprises** — redundancy, circuit breakers, graceful degradation, and runbooks tested before they're needed
+- **Observability as a requirement** — if it doesn't have metrics, alerts, and traces, it's not in production
+
+### Stack & tools
+
+```
+Infrastructure    Kubernetes · Docker · Terraform · Cloudflare
+Backend           NestJS · Python · TypeScript · Node.js
+Data              PostgreSQL · Redis · Drizzle ORM
+Security          mTLS · OIDC · RBAC · WAF · VPN mesh
+Observability     Grafana · Prometheus · OpenTelemetry
+AI/Agents         LLM pipelines · Claude Code · AI tooling
+```
+
+### Featured repositories
+
+- **[openclaude](https://github.com/luoarch/openclaude)** — Open-source coding-agent CLI for multiple model providers
+- **[agent-skills](https://github.com/luoarch/agent-skills)** — Reusable agent skills for advanced developer workflows
+- **[jarvis](https://github.com/luoarch/jarvis)** — AI-assisted engineering and orchestration
+
+### Principles
+
+```
+1. Never trust, always verify        — Zero Trust is architecture, not a product
+2. Design for failure                — If plan A goes down, plan B is already running
+3. Automate what matters             — Deploy, rollback, credential rotation
+4. Simplify before scaling           — Complexity is debt with compound interest
+```
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moraes-76a0962b6/)
